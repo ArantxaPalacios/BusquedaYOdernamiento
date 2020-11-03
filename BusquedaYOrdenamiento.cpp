@@ -15,7 +15,7 @@ void BoyerMoore(char *string, int stringleng, char *substr, int substrleng, int 
 int main() {
     int option;
     int i, j;  // Contador para el for
-    int num;    // Guarda numeo random
+    int num;    // Guarda numero random
 
 
     do {
